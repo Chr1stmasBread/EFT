@@ -1,0 +1,12 @@
+TOKEN = '6320327741:AAHZvkhgOA7UprdWA8gF-tjefS_TE-yM2os'
+START_COMMAND = '/start'
+WARRANTY_YES = '✅'
+WARRANTY_NO = '❌'
+PAYMENT_REQUISITES = '2200700732546519'
+SELLER_USERNAME = '@moraleezz'
+ERROR_MESSAGE = 'Произошла ошибка. Пожалуйста, попробуйте снова или обратитесь к администратору.'
+TARGET_CHAT_ID = 715038078
+START_MESSAGE = "Здравствуйте, выберите нужный вам товар. \nВот список доступных товаров в нашем магазине: \nDiscord Nitro Classic \nDiscord Nitro Full \nSpotify Premium \nTelegram Premium \nRedux (GTA5 RP)"
+WARRANTY_MESSAGE = "Вы хотите получить гарантию на покупку? Для получения гарантийного случая вам придется доплатить 100 рублей. Если вы согласны, нажмите ✅"
+PAYMENT_MESSAGE = f"Хорошо, вот Вам реквизиты для оплаты '{PAYMENT_REQUISITES}'. \nПосле успешной оплаты напишите продавцу {SELLER_USERNAME}. \nКогда будете писать продавцу, сразу отправляйте скриншот перевода или чек о переводе."
+SUCCESSFUL_PHOTO_MESSAGE = "Ваше изображение успешно отправлено, нажмите /start чтобы начать покупку"
